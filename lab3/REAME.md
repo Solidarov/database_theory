@@ -962,15 +962,7 @@ FOR UPDATE забезпечив послідовне виконання тран
 
 ## Посилання на проєкт
 
-Репозиторій з повним кодом SQL скриптів: `https://github.com/username/library-db-lab3`
-
-Файли проєкту:
-- `01-create-structure.sql` - створення структури БД
-- `02-insert-data.sql` - початкові дані
-- `03-basic-operations.sql` - базові операції модифікації
-- `04-transactions.sql` - робота з транзакціями
-- `05-advanced-features.sql` - розширені можливості
-- `06-creative-extensions.sql` - творчі розширення
+Репозиторій з повним кодом SQL скриптів: `https://github.com/Solidarov/database_theory/tree/main/lab3`
 
 ## Додаток А. Скріншоти виконання
 
